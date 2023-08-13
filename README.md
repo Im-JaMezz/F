@@ -10,7 +10,7 @@
 <br>
 마이페이지에서 아래 코드를 실행하면 자동으로 팔로잉 됩니다.
 ```js
-import('https://raw.githack.com/Im-JaMezz/F/main/%E1%84%91%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A9/script.js');
+엔보출현으로 사용불가
 ```
 <br>
 -확장프로그램 사용법
