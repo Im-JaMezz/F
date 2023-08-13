@@ -1,0 +1,1 @@
+{"name":"팔로","manifest_version":3,"version":"0.1","description":"팔로잉 체킹","content_scripts":[{"New item":"","matches":["https://playentry.org/profile*"],"js":["script.js"],"all_frames":true}],"permissions":["activeTab"],"icons":{"128":"icon.png"}}
